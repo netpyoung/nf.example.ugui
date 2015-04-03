@@ -3,23 +3,24 @@
 
 
 ## Test
-label
-button
-scroll_bar
-input_field
-toggle
-rect
-panel
+* label
+* button
+* slider
+* scroll_bar
+* input_field
+* toggle
+* rect
+* panel
+* tween - utools - https://github.com/tomtc123/ugui-Tween-Tool
+* canvas - rendermode
 
-
-
-popup_list
-anchor
-tween
-animation
 
 
 ## TODO
+* masking
+* popup_list
+* tween
+* animation
 * scroll_list
 
 
@@ -30,5 +31,8 @@ animation
 * Text Mesh Pro: https://www.assetstore.unity3d.com/en/#!/content/17662
 
 ## SpritePacker 이미지 패킹관련
-http://www.xuanyusong.com/archives/3315
+* http://www.xuanyusong.com/archives/3315
 
+
+## 고려해볼것
+* PSD 2 uGUI : https://www.assetstore.unity3d.com/en/#!/content/21560

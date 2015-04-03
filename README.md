@@ -36,3 +36,7 @@
 
 ## 고려해볼것
 * PSD 2 uGUI : https://www.assetstore.unity3d.com/en/#!/content/21560
+
+
+## REF
+* Tutorials - Beginner UI : https://www.youtube.com/playlist?list=PLX2vGYjWbI0Qp0sD8_RKgbWul7z_eyNAv
